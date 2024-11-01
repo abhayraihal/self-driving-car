@@ -9,7 +9,7 @@ car.draw(ctx);
 animate();
 
 function animate(){
-    car.update();
+    car.update(road.borders);
     canvas.height = window.innerHeight;  // canvas gets cleared, then height of road is set, so previous car is removed from trac
     
     ctx.save();
