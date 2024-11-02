@@ -1,7 +1,3 @@
-Here's a documentation format for your self-driving car project with catchy emojis to make it visually engaging:
-
----
-
 # 🚗 Self-Driving Car Project 🚗
 
 Explore a unique self-driving car simulation powered by a neural network model using a genetic algorithm. This project showcases autonomous driving on busy roads, with everything built from scratch in HTML, CSS, and JavaScript!
